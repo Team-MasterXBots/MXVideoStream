@@ -45,8 +45,8 @@ async def start(client, message):
                  InlineKeyboardButton("「 ɪɴғᴏ 」", callback_data="about"),
             ],
             [
-                InlineKeyboardButton("「 ᴍɪsᴇʀʏ ᴏғғɪᴄɪᴀʟ 」", url=f"https://t.me/MiSERYOFFiCiAL"),
-                InlineKeyboardButton("「 ᴍɪsᴇʀʏ sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/MiserySupport"),
+                InlineKeyboardButton("「 ꪑ᥊ ᥇ꪮꪻᦓ 」", url=f"https://t.me/Master_X_Updates"),
+                InlineKeyboardButton("「 ᥇ꫀᦓꪻ ᠻ᥅꠸ꫀꪀᦔᦓ 」", url=f"https://t.me/Best_Friends15"),
             ],
             [
                InlineKeyboardButton("「•ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ•」 ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
@@ -59,7 +59,7 @@ async def start(client, message):
           reply_markup=reply_markup
        )
    else:
-      await message.reply(f"** 🍓 ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴇʙᴇ!! ~ @MiSERYOFFiCiAL**")
+      await message.reply(f"** 🍓 ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴇʙᴇ!! ~ @Master_X_Updates**")
 
 @Client.on_callback_query()
 async def cb_handler(client: Client, query: CallbackQuery):
@@ -67,7 +67,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton("「 ʙᴀᴄᴋ 」", callback_data="start"),
-                InlineKeyboardButton ("「 sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/MiserySupport"),
+                InlineKeyboardButton ("「 sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/Best_Friends15"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -83,7 +83,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [
             [
                 InlineKeyboardButton("「 ʙᴀᴄᴋ 」", callback_data="start"),
-                InlineKeyboardButton ("「 sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/MiserySupport"),
+                InlineKeyboardButton ("「 sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/Best_Friends15"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -106,8 +106,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton("「 ɪɴғᴏ 」", callback_data="about"),
             ],
             [
-                InlineKeyboardButton("「 ᴍɪsᴇʀʏ ᴏғғɪᴄɪᴀʟ 」", url=f"https://t.me/MiSERYOFFiCiAL"),
-                InlineKeyboardButton("「 ᴍɪsᴇʀʏ sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/MiserySupport"),
+                InlineKeyboardButton("「 ꪑ᥊ ᥇ꪮꪻᦓ 」", url=f"https://t.me/Master_X_Updates"),
+                InlineKeyboardButton("「 ᥇ꫀᦓꪻ ᠻ᥅꠸ꫀꪀᦔᦓ 」", url=f"https://t.me/Best_Friends15"),
             ],
             [
                InlineKeyboardButton("「•ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ•」", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
