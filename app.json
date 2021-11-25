@@ -1,15 +1,15 @@
 {
-    "name": "ᴍɪsᴇʀʏ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍᴇʀ",
-    "description": " ᴀ ᴛɢ ʙᴏᴛ ғᴏʀ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍɪɴɢ ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏ ᴀɴᴅ ᴛɢᴄᴀʟʟs! ᴘʀᴏᴊᴇᴄᴛ ʙʏ @TurdusMaximus",
+    "name": "MX ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍᴇʀ",
+    "description": "ᴀ ᴛɢ ʙᴏᴛ ғᴏʀ ᴠɪᴅᴇᴏ sᴛʀᴇᴀᴍɪɴɢ ʙᴀsᴇᴅ ᴏɴ ᴘʏʀᴏ ᴀɴᴅ ᴛɢᴄᴀʟʟs! ᴘʀᴏᴊᴇᴄᴛ ʙʏ @Master_X_Updates",
     "logo": "https://telegra.ph/file/657969315fbe1a90fbb84.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/XeBorn",
-    "repository": "https://github.com/TurdusMaximus/MiseryVideoStream",
-    "success_url": "https://t.me/TurdusMaximus",
+    "website": "https://t.me/RGamer_s",
+    "repository": "https://github.com/Team-MasterXBots/MXVideoStream",
+    "success_url": "https://t.me/Master_X_Updates",
     "env": {
         "API_ID": {
             "description": "ɢᴇᴛ ʏᴏᴜʀ ᴀᴘɪ_ɪᴅ ғʀᴏᴍ my.telegram.org ",
