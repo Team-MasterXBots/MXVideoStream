@@ -12,7 +12,7 @@ Misery = Client(
 )
 
 Misery.start()
-print("[Your Misery Is Ready To Stream✓")
+print("[Your MX Is Ready To Stream✓")
 app.start()
 print("Started Sucksexfully✓")
 idle()
