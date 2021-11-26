@@ -1,5 +1,5 @@
 <h1> 「•ꪑ᥊ ꪜ꠸ᦔꫀꪮ ᦓꪻ᥅ꫀꪖꪑ•」</h1>
-<img src="https://te.legra.ph/file/9183db915acf7e74a2083.jpg" alt="「•ᴍɪsᴇʀʏ•」" height="500" width="500" align="center">
+<img src="https://te.legra.ph/file/3c8531a1dd853020a3e4b.jpg" alt="「•ᴍɪsᴇʀʏ•」" height="500" width="500" align="center">
 
 
 > ᴀ ғɪɴᴇ & ғɪʀsᴛ ᴄʟᴀss ᴘʀᴏᴊᴇᴄᴛ ғᴏʀ ᴘʟᴀʏɪɴɢ ᴠɪᴅᴇᴏs ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ʙʏ [Dev-v2](https://github.com/New-Dev3) | •ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ᴛɢᴄᴀʟʟs](https://github.com/MarshalX/tgcalls) and [ᴘʏʀᴏ](https://github.com/pyrogram/pyrogram)
